@@ -1,10 +1,10 @@
-package com.effecti.bot;
+package com.effecti;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BotApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {

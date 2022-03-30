@@ -1,6 +1,6 @@
-package com.effecti.bot.dto;
+package com.effecti.dto;
 
-import com.effecti.bot.model.Bidding;
+import com.effecti.model.Bidding;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

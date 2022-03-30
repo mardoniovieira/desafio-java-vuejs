@@ -1,6 +1,6 @@
-package com.effecti.bot.configuration;
+package com.effecti.configuration;
 
-import com.effecti.bot.service.BiddingRequestService;
+import com.effecti.service.BiddingRequestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.EnableScheduling;

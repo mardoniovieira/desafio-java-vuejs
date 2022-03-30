@@ -1,4 +1,4 @@
-package com.effecti.bot.exception;
+package com.effecti.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,7 +1,7 @@
-package com.effecti.bot.controller;
+package com.effecti.controller;
 
-import com.effecti.bot.dto.BiddingDto;
-import com.effecti.bot.service.BiddingService;
+import com.effecti.dto.BiddingDto;
+import com.effecti.service.BiddingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

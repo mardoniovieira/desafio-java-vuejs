@@ -1,4 +1,4 @@
-package com.effecti.bot.model;
+package com.effecti.model;
 
 import lombok.*;
 

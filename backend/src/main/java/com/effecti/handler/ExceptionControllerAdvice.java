@@ -1,7 +1,7 @@
-package com.effecti.bot.handler;
+package com.effecti.handler;
 
-import com.effecti.bot.exception.BiddingRequestException;
-import com.effecti.bot.exception.ExceptionResponse;
+import com.effecti.exception.BiddingRequestException;
+import com.effecti.exception.ExceptionResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;

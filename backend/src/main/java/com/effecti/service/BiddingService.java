@@ -1,8 +1,8 @@
-package com.effecti.bot.service;
+package com.effecti.service;
 
-import com.effecti.bot.dto.BiddingDto;
-import com.effecti.bot.model.Bidding;
-import com.effecti.bot.repository.BiddingRepository;
+import com.effecti.dto.BiddingDto;
+import com.effecti.model.Bidding;
+import com.effecti.repository.BiddingRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

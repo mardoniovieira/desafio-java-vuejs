@@ -1,6 +1,6 @@
-package com.effecti.bot.service;
+package com.effecti.service;
 
-import com.effecti.bot.exception.BiddingRequestException;
+import com.effecti.exception.BiddingRequestException;
 import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;

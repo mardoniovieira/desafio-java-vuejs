@@ -1,4 +1,4 @@
-package com.effecti.bot.exception;
+package com.effecti.exception;
 
 public class BiddingRequestException extends RuntimeException {
 

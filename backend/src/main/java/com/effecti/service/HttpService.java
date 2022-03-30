@@ -1,4 +1,4 @@
-package com.effecti.bot.service;
+package com.effecti.service;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
